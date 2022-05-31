@@ -36,4 +36,3 @@ const styles = StyleSheet.create({
 })
 
 
-const WEATHER_API_KEY = '3adcd12d7ce3033c824f193859e71a0c'
